@@ -4,7 +4,7 @@ This is a simple **auto-clicker** script written in Python using the **keyboard*
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - **keyboard** – To listen for hotkeys and trigger actions
 - **mouse** – To simulate mouse clicks

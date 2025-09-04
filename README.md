@@ -20,7 +20,7 @@ This is a simple **auto-clicker** script written in Python using the **keyboard*
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 1. Install the required libraries:
 

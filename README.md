@@ -1,4 +1,4 @@
-# 🔄 Custom AutoClicker
+# Custom AutoClicker
 
 This is a simple **auto-clicker** script written in Python using the **keyboard** and **mouse** libraries. It allows you to toggle automatic double-clicking at a set interval with the hotkey **Alt + T**.
 

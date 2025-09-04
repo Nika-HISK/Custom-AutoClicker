@@ -12,7 +12,7 @@ This is a simple **auto-clicker** script written in Python using the **keyboard*
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Toggle auto-clicking on/off using **Alt + T**
 - Simulate double-clicking with the left mouse button
